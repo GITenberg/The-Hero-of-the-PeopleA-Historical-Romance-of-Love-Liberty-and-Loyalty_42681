@@ -1,0 +1,45 @@
+_repo: The-Hero-of-the-PeopleA-Historical-Romance-of-Love-Liberty-and-Loyalty_42681
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Williams, Llew
+    - Williams, H. L. (Henry Llewellyn)
+    - Mizen, Mat
+    - Mizzen, Matt
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+covers:
+- cover_type: archival
+  image_path: 42681-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'The Hero of the People: A Historical Romance of Love, Liberty and Loyalty'
+url: http://www.gutenberg.org/ebooks/42681
